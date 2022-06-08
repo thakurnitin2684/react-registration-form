@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.dc3bf338.chunk.js",
-    "main.js.map": "/static/js/main.dc3bf338.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.11407394.js",
-    "runtime-main.js.map": "/static/js/runtime-main.11407394.js.map",
-    "static/js/2.2cca25af.chunk.js": "/static/js/2.2cca25af.chunk.js",
-    "static/js/2.2cca25af.chunk.js.map": "/static/js/2.2cca25af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf12f17579f5761856e5ce60ebf0d320.js": "/precache-manifest.bf12f17579f5761856e5ce60ebf0d320.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/react-registration-form/static/js/main.224c1f34.chunk.js",
+    "main.js.map": "/react-registration-form/static/js/main.224c1f34.chunk.js.map",
+    "runtime-main.js": "/react-registration-form/static/js/runtime-main.ea2bbfbc.js",
+    "runtime-main.js.map": "/react-registration-form/static/js/runtime-main.ea2bbfbc.js.map",
+    "static/js/2.100be1e5.chunk.js": "/react-registration-form/static/js/2.100be1e5.chunk.js",
+    "static/js/2.100be1e5.chunk.js.map": "/react-registration-form/static/js/2.100be1e5.chunk.js.map",
+    "index.html": "/react-registration-form/index.html",
+    "precache-manifest.68f22f6e943275ca8b6bf4ec2f17372c.js": "/react-registration-form/precache-manifest.68f22f6e943275ca8b6bf4ec2f17372c.js",
+    "service-worker.js": "/react-registration-form/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.11407394.js",
-    "static/js/2.2cca25af.chunk.js",
-    "static/js/main.dc3bf338.chunk.js"
+    "static/js/runtime-main.ea2bbfbc.js",
+    "static/js/2.100be1e5.chunk.js",
+    "static/js/main.224c1f34.chunk.js"
   ]
 }
